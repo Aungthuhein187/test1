@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "router-exercie"
+    }
+  },
+  "defaultProject": "router-exercie",
+  "cli": {
+    "analytics": "b8224b28-61ae-49d9-aadb-cf8b4f4e4799"
+  }
 }
